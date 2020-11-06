@@ -1,0 +1,4 @@
+agora
+sim 
+vou aprender essa parada
+muito louca que é progaramar em JS
